@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4fb7dae1-ac40-440b-b716-ec4750a93f05}">
+		<property name="assetPath">
+			<value>Outset Island Full Loop   The Legend of Zelda  The Wind Waker HD Music Extended HD.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>929.07102040816324</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b89af168-733b-4ff4-bbf5-2735bf32b1ac}</destination>
+		</relationship>
+	</object>
+</objects>

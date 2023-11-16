@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{bc4215ef-061d-40c2-a821-664e80e2f9e6}">
+		<property name="name">
+			<value>Music</value>
+		</property>
+		<relationship name="folder">
+			<destination>{17bc9888-112d-4f54-8c98-22aac0e7ede1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1ec47f1c-80be-4b83-9a1c-a42754d597cc}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1ec47f1c-80be-4b83-9a1c-a42754d597cc}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Wind Waker</value>
+			<value>Ura</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
